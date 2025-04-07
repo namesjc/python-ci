@@ -71,4 +71,4 @@ jobs:
 
       - uses: ./.github/actions/setup
 
-      - run: uv run build
+      - run: uv build
